@@ -6,7 +6,7 @@ Pie Chart Visualization: Graphically represents the distribution of cases (activ
 Search Functionality: Allows users to search for any specific country and view detailed COVID-19 statistics for that country.
 Responsive Design: Optimized for both Android and iOS devices.
 ### Splash Screen
-![Splash Screen](images/screenshots/splashscreen.jpeg)
+![Splash Screen](images/screenshot/splashscreen.jpeg)
 
 ### Dashboard
 ![DashboardCountry Details](images/screenshot/mainscreen.jpeg)
